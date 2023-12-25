@@ -572,5 +572,6 @@ nav {
 @media screen and (max-width: 450px) {
     .news-form-container {
         flex-direction: column;
+        align-items: flex-start;
     }
 }
